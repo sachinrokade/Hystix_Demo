@@ -19,7 +19,7 @@ public class AdminHystrixDemoApplication extends SpringBootServletInitializer {
     }
 
 	public static void main(String[] args) {
-		System.out.println("converterted jar 2 war");
+		System.out.println("converted jar 2 war");
 		SpringApplication.run(AdminHystrixDemoApplication.class, args);
 	}
 
